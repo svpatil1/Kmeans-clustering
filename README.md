@@ -26,5 +26,6 @@ Now evaluating the result with Kmeans Classification report,
 | 2 | 0.95 | 0.72 | 0.82 | 50 |
 | avg/total | 0.83 | 0.83 | 0.83 | 150 |
 
-High Precision + High Recall = Highly accurate model
+High Precision + High Recall = Highly accurate model.
+
 Thus, this model gives 83% of the data which are truly relevant.
