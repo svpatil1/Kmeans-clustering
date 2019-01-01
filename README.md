@@ -20,7 +20,7 @@ Also for label 2, 36 datapoints are correctly predicted and 14 datapoints are in
 Now evaluating the result with Kmeans Classification report,
 
 | | Precison | Recall| F-score | support |
-| ------------- | ------------- |------------- |------------- |
+| ------------- | ------------- | ------------- |------------- |------------- |
 | 0 |  1.00 | 1.00 | 1.00 | 50 |
 | 1 | 0.77 | 0.96 | 0.86 | 50 |
 | 2 | 0.95 | 0.72 | 0.82 | 50 |
