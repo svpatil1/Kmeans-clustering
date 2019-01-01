@@ -1,4 +1,4 @@
-# Kmeans-clustering-
+# Kmeans-clustering
 Kmeans clustering  using Scikit dataset
 
 Kmeans clustering is performed on Iris dataset of scikit library. The results are verified using pandas crosstab function.
