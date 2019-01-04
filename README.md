@@ -1,5 +1,9 @@
 # Kmeans-clustering
+###### Goal: 
+
 Kmeans clustering  using Scikit dataset
+
+###### Results:
 
 Kmeans clustering is performed on Iris dataset of scikit library. The results are verified using pandas crosstab function.
 
